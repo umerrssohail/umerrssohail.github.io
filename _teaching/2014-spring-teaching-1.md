@@ -1,20 +1,15 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Experience
 ======
+* Mathematics in Economics Tutor, Lahore University of Management Sciences, 2020-2021
+  * Held weekly office hours teaching Mathematics topics including Calculus, Linear Algebra, Real Analysis, Differential Equations, Statistics, Econometrics, and Mathematical Optimization to undergraduate students.
 
-Heading 2
-======
-
-Heading 3
-======
+* Teaching Assistant, Lahore University of Management Sciences
+  * Served in both Mathematics and Economics Departments for classes of over 50 students.
+  * Conducted tutorials, office hours, discussion groups, and graded exams.
+  * Courses assisted:
+    * MATH-222 Linear Algebra-II & MATH-320 Abstract Algebra, Fall 2021
+    * MATH 205- Introduction to Analysis-I, Spring 2020
+    * ECON-330 Econometrics, Spring 2020
+    * ECON-419 Advanced Behavioral Economics, Spring 2021
+    * MATH 204-Introduction to Formal Mathematics, Fall 2019
+    * MATH - 101 - Calculus, Spring 2019
