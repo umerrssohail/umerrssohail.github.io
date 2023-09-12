@@ -1,3 +1,10 @@
+---
+title: "Teaching experience LUMS"
+collection: teaching
+talk_type: "Talk"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Lahore University of Management Sciences, Lahore"
+date: 2014-01-01
 Teaching Experience
 ======
 * Mathematics in Economics Tutor, Lahore University of Management Sciences, 2020-2021
