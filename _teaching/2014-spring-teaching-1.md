@@ -5,6 +5,8 @@ talk_type: "Talk"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Lahore University of Management Sciences, Lahore"
 date: 2014-01-01
+
+
 ======
 * Mathematics in Economics Tutor, Lahore University of Management Sciences, 2020-2021
   * Held weekly office hours teaching Mathematics topics including Calculus, Linear Algebra, Real Analysis, Differential Equations, Statistics, Econometrics, and Mathematical Optimization to undergraduate students.
