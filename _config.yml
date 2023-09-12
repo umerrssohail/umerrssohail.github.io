@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Bashir"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "New York, NY, USA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bashar-econ"
+  twitter          : "bashar_econ"
   vine             :
   weibo            :
   xing             :
