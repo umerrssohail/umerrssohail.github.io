@@ -8,7 +8,7 @@ date: 2020-01-01
 ---
 
 ## Mathematics in Economics Tutor
-** Lahore University of Management Sciences, 2020-2021**
+**Lahore University of Management Sciences, 2020-2021**
 - Held weekly office hours teaching Mathematics topics including Calculus, Linear Algebra, Real Analysis, Differential Equations, Statistics, Econometrics, and Mathematical Optimization to undergraduate students.
 
 ## Teaching Assistant
