@@ -15,7 +15,7 @@ author_profile: true
   
  </ol> 
 <h2>Work In Progress</h2>
-  <li>Profit Shifting from the Global South: Role of Thin Capitalization Rules with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), Kyle McNabb (ODI), and Mazhar Waseem (CEPR, IFS, Manchester)</li>
+  <li>Profit Shifting from the Global South: Role of Thin Capitalization Rules with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), Kyle McNabb (ODI), and <a href="www.mazharwaseem.com" target="_blank"></a>Mazhar Waseem (CEPR, IFS, Manchester)</li>
   <li>Understanding Movements into and out of Informality: Theory and Evidence from Pakistan with Mazhar Waseem (CPER, IFS, Manchester)</li>
 <!--   <li>Firm Responses to Retrospective Super Tax and Amnesty Schemes: Evidence from Pakistan with Zehra Farooq (Tulane)</li>
   <li>Does Fiscal Theory of Price Level Explain Inflation Spirals in Countries with Weak Institutions? with Shaheryar (Duke)</li>
