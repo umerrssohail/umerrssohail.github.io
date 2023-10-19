@@ -9,7 +9,7 @@ author_profile: true
 <ul>
   <li>A Tax based Model of Informality, <i>MSc Economics Thesis</i></li>
 <details>
-  <summary>Abstract, <i></i></summary>
+  <summary>Abstract <i></i></summary>
   <p>In low and middle-income countries, the informal sector constitutes a significant portion of GDP and employment, posing challenges for taxation and social protection. Tax evasion tends to be a major driver of informality even in developed countries Pappadà & Rogoff (2023). This paper develops a theoretical model to understand how firms choose between formal and informal operations in the presence of imperfect enforcement. The model, inspired by Roy’s classic self-selection theory, examines the relationship between firm productivity and profit in the context of taxation. It suggests that firms with higher productivity are more likely to operate in the formal sector if there is a wider dispersion in productivity among formal firms. This dispersion is influenced by government policies, such as tax rates, evasion and compliance costs, as well as support for formal businesses and availability of educated labor. The paper lays the groundwork for an in-depth study of how tax policy affects informality.</p>
 </details>
   
