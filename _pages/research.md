@@ -21,4 +21,5 @@ author_profile: true
   <li>Does Fiscal Theory of Price Level Explain Inflation Spirals in Countries with Weak Institutions? with Shaheryar (Duke)</li>
   <li>What do people share? Frictions in information sharing in informal networks: Evidence from Interactive voice response data from Pakistan with Syeda Masooma Naqvi (USE Viterbi)</li>
   <li>What explains religious extremism in Pakistan: Evidence from text of two decades of newspaper articles with Syeda Masooma Naqvi (USC Viterbi)</li> -->
+
 </ol>
