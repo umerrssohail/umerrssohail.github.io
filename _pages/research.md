@@ -7,8 +7,7 @@ author_profile: true
 
 <h2>Papers</h2>
 <ol>
-  <li>A Tax based Model of Informality, <i>MSc Economics Thesis</i></li>
-  [<a href="../files/InformalityPaper.pdf" target="_blank">View PDF</a>]
+  <li>   <a href="../files/InformalityPaper.pdf" target="_blank">A Tax based Model of Informality, <i>MSc Economics Thesis</i></a> </li>
 <details>
   <summary>Abstract <i></i></summary> 
  </summary>
