@@ -1,23 +1,26 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2757
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c99989\c100000\c99983;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx560\tx1121\tx1681\tx2242\tx2803\tx3363\tx3924\tx4485\tx5045\tx5606\tx6166\tx6727\tx7288\tx7848\tx8409\tx8970\tx9530\tx10091\tx10651\tx11212\tx11773\tx12333\tx12894\tx13455\tx14015\tx14576\tx15136\tx15697\tx16258\tx16818\tx17379\tx17940\tx18500\tx19061\tx19621\tx20182\tx20743\tx21303\tx21864\tx22425\tx22985\tx23546\tx24106\tx24667\tx25228\tx25788\tx26349\tx26910\tx27470\tx28031\tx28591\tx29152\tx29713\tx30273\tx30834\tx31395\tx31955\tx32516\tx33076\tx33637\tx34198\tx34758\tx35319\tx35880\tx36440\tx37001\tx37561\tx38122\tx38683\tx39243\tx39804\tx40365\tx40925\tx41486\tx42046\tx42607\tx43168\tx43728\tx44289\tx44850\tx45410\tx45971\tx46531\tx47092\tx47653\tx48213\tx48774\tx49335\tx49895\tx50456\tx51016\tx51577\tx52138\tx52698\tx53259\tx53820\tx54380\tx54941\tx55501\tx56062\slleading20\pardirnatural\partightenfactor0
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 
-\f0\fs24 \cf2 ---\
-layout: archive\
-title: "Research"\
-permalink: /research/\
-author_profile: true\
----\
-\
-\{% if author.googlescholar %\}\
-  You can also find my articles on <u><a href="\{\{author.googlescholar\}\}">my Google Scholar profile</a>.</u>\
-\{% endif %\}\
-\
-\{% include base_path %\}\
-\
-\{% for post in site.publications reversed %\}\
-  \{% include archive-single.html %\}\
-\{% endfor %\}}
+<h2>Papers</h2>
+<ol>
+  <li>A Tax based Model of Informality, <i>MSc Economics Thesis</i></li>
+<details>
+  <summary>Abstract <i></i></summary>
+  <p>In low and middle-income countries, the informal sector constitutes a significant portion of GDP and employment, posing challenges for taxation and social protection. Tax evasion tends to be a major driver of informality even in developed countries Pappadà & Rogoff (2023). This paper develops a theoretical model to understand how firms choose between formal and informal operations in the presence of imperfect enforcement. The model, inspired by Roy’s classic self-selection theory, examines the relationship between firm productivity and profit in the context of taxation. It suggests that firms with higher productivity are more likely to operate in the formal sector if there is a wider dispersion in productivity among formal firms. This dispersion is influenced by government policies, such as tax rates, evasion and compliance costs, as well as support for formal businesses and availability of educated labor. The paper lays the groundwork for an in-depth study of how tax policy affects informality.</p>
+</details>
+  
+ </ol> 
+<h2>Work In Progress</h2>
+<ol>
+  <li>Profit Shifting from the Global South: Role of Thin Capitalization Rules with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester),<a href="https://odi.org/en/profile/kyle-mcnabb/" target="_blank">Kyle McNabb</a> (ODI), and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
+  <li>Understanding Movements into and out of Informality: Theory and Evidence from Pakistan with <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
+<!--   <li>Firm Responses to Retrospective Super Tax and Amnesty Schemes: Evidence from Pakistan with Zehra Farooq (Tulane)</li>
+  <li>Does Fiscal Theory of Price Level Explain Inflation Spirals in Countries with Weak Institutions? with Shaheryar (Duke)</li>
+  <li>What do people share? Frictions in information sharing in informal networks: Evidence from Interactive voice response data from Pakistan with Syeda Masooma Naqvi (USE Viterbi)</li>
+  <li>What explains religious extremism in Pakistan: Evidence from text of two decades of newspaper articles with Syeda Masooma Naqvi (USC Viterbi)</li> -->
+
+</ol>
