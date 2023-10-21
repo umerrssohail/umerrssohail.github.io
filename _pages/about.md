@@ -14,5 +14,4 @@ In my capacity as a Predoc, I am engaged in a myriad of projects. These include 
 
 Before joining Columbia University, I completed my MSc in Economics at the University of Manchester. Earlier in my academic journey, I received a BS in Economics and Mathematics from the Department of Mathematics at the Syed Babar Ali School of Science and Engineering, Lahore University of Management Sciences, Lahore. I had the privilege of being National Outreach Program scholar at LUMS, a prestigious scholar envisaged by Syed Babar Ali. 
 
-At at personal level, I am interested in mathematics, punjabi language and culture. My favourite poet is Bulleh Shah and I tend to interpret him in a very modern sense. 
-
+On a personal note, my interests extend beyond economics and delve deep into the realms of mathematics and the rich tapestry of Punjabi language and culture. I hold a special reverence for the poetic genius of Bulleh Shah, whose verses resonate deeply with me. While I value the traditional essence of his poetry, I often find myself interpreting his words through a contemporary lens, drawing parallels with modern sensibilities and contexts.
