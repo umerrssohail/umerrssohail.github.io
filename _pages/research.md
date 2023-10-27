@@ -24,7 +24,7 @@ author_profile: true
   
 <li>Understanding Movements into and out of Informality: Theory and Evidence from Pakistan with <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
 
-<li>A Tale of Two Thresholds: Dynamic Implications of Size-Based Tax Policies with ,<a href="https://zehrafarooq.com/" target="_blank">Zehra Farooq</a> (Tulane), <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester) <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
+<li>A Tale of Two Thresholds: Dynamic Implications of Size-Based Tax Policies with <a href="https://zehrafarooq.com/" target="_blank">Zehra Farooq</a> (Tulane), <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester) and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
 
 <!--   <li>Firm Responses to Retrospective Super Tax and Amnesty Schemes: Evidence from Pakistan with Zehra Farooq (Tulane)</li>
   <li>Does Fiscal Theory of Price Level Explain Inflation Spirals in Countries with Weak Institutions? with Shaheryar (Duke)</li>
