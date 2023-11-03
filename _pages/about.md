@@ -16,4 +16,4 @@ Before joining Columbia University, I completed my MSc in Economics at the Unive
 
 On a personal note, my interests extend beyond economics and delve deep into the realms of mathematics and the rich tapestry of Punjabi language and culture. I hold a special reverence for the poetic genius of Bulleh Shah, whose verses resonate deeply with me. While I value the traditional essence of his poetry, I often find myself interpreting his words through a contemporary lens, drawing parallels with modern sensibilities and contexts.
 
-I just wrote [this](https://bashirmohammad.github.io/RAGuide/intro.html) guide for how to do research in applied microeconomics with my amazing faculty mentor Michael Best. Comments and suggestions are most welcome and you can ask questions by opening an issue at the GitHub repository of this book.
+I just wrote [this](https://bashirmohammad.github.io/RAGuide/intro.html) guide for how to do research in applied microeconomics with my amazing faculty mentor Michael Best and his PhD student Luigi Caloi. Comments and suggestions are most welcome and you can ask questions by opening an issue at the GitHub repository of this book.
