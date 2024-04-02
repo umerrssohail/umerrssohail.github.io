@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+1. Education
 ======
 * B.S. in Economics and Mathematics (Joint) with high distinction, Lahore University of Management Sciences, 2017-2021
 * MSc Economics with Distinction and John Stewart Prize, University of Manchester, 2021-2022
 
-Experience
+2. Experience
 ======
 * Staff Associate I/ Predoctoral Research Fellow in Economics, Columbia University in City of New York, 2022-Present
   * Worked with Professors [Michael Carlos Best](https://blogs.cuit.columbia.edu/mcb2270/) and [Jack J. Willis](https://sites.google.com/view/jwillis/) in Department of Economics.
@@ -24,29 +24,30 @@ Experience
   * Built models to optimize agent-caller pairs using large datasets with MYSQL and Python.
   * Achieved a 2% increase in revenue per call by building predictive models.
 
-Research Interests
+3. Research Interests
 ======
 * Primary: Public Finance
 * Secondary: Macroeconomics, Industrial Organization
 
-Skills
+4. Programming
 ======
 * STATA (Advanced)
 * Python (Proficient)
 * Julia (Basic)
-* Eviews (Introductory)
 * MATLAB (Proficient)
 * RStudio (Intermediate)
-* C++ (Basic)
+* SQL
 * LaTeX (Intermediate)
+* Slurn
+* Git
+* 
 
-Languages
+1. Languages
 ======
 * English: Fluent (speaking, reading, writing)
-* Urdu: Native
 * Punjabi: Native
 
-Honors & Awards
+1. Honors & Awards
 ======
 * Weiss Fund for Development Economics Kabir Banerjee Predoctoral Fellowship Finalist, University of Chicago, September 2022
 * John Stewart Prize for Econometrics, University of Manchester, December 2022
