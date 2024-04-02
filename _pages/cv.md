@@ -26,8 +26,8 @@ Experience
 
 Research Interests
 ======
-* Primary: Public Finance, Development Economics, Applications of Big Data and Machine Learning in Economics, Applied Microeconomics, Applied Econometrics
-* Secondary: Macro-Public Finance, Fiscal Policy
+* Primary: Public Finance
+* Secondary: Macroeconomics, Industrial Organization
 
 Skills
 ======
