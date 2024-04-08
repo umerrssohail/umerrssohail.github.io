@@ -3,11 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
----
 
 <h2>Papers</h2>
 <ol>
-<!--<li>  <a href="../files/InformalityPaper.pdf" target="_blank">A Tax based Model of Informality</a> , <i>MSc Economics Thesis</i></li> -->
   <li>A Tax based Model of Informality, <i> MSc Economics Thesis September 2022</i></li>
 <details>
   <summary>Abstract <i></i></summary> 
@@ -26,10 +24,5 @@ author_profile: true
 <li>Understanding Movements into and out of Informality: Theory and Evidence from Pakistan with <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
 
 <li>A Tale of Two Thresholds: Dynamic Implications of Size-Based Tax Policies with <a href="https://zehrafarooq.com/" target="_blank">Zehra Farooq</a> (Tulane), <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester) and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester) <i> October 2023<i> </li>
-
-<!--   <li>Firm Responses to Retrospective Super Tax and Amnesty Schemes: Evidence from Pakistan with Zehra Farooq (Tulane)</li>
-  <li>Does Fiscal Theory of Price Level Explain Inflation Spirals in Countries with Weak Institutions? with Shaheryar (Duke)</li>
-  <li>What do people share? Frictions in information sharing in informal networks: Evidence from Interactive voice response data from Pakistan with Syeda Masooma Naqvi (USE Viterbi)</li>
-  <li>What explains religious extremism in Pakistan: Evidence from text of two decades of newspaper articles with Syeda Masooma Naqvi (USC Viterbi)</li> -->
 
 </ol>
