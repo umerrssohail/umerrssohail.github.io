@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+---
 
 <h2>Papers</h2>
 <ol>
