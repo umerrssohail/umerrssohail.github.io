@@ -7,4 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{Bashir_CV.pdf}
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+[Download CV](Bashir_CV.pdf)
