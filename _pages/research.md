@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Working Papers</h2>
+*<h2>Working Papers</h2>
 <li>Revenue and Welfare Consequences of Anti-Avoidance
 Rules: Evidence from Uganda joint with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), <a href="https://odi.org/en/profile/kyle-mcnabb/" target="_blank">Kyle McNabb</a> (ODI), and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</i> October 2023 </li>
 
@@ -31,7 +31,7 @@ TCR, which focuses on companies utilizing debt financing over equity financing.
   <p>In low and middle-income countries, the informal sector constitutes a significant portion of GDP and employment, posing challenges for taxation and social protection. Tax evasion tends to be a major driver of informality even in developed countries Pappadà & Rogoff (2023). This paper develops a theoretical model to understand how firms choose between formal and informal operations in the presence of imperfect enforcement. The model, inspired by Roy’s classic self-selection theory, examines the relationship between firm productivity and profit in the context of taxation. It suggests that firms with higher productivity are more likely to operate in the formal sector if there is a wider dispersion in productivity among formal firms. This dispersion is influenced by government policies, such as tax rates, evasion and compliance costs, as well as support for formal businesses and availability of educated labor. The paper lays the groundwork for an in-depth study of how tax policy affects informality.</p>
 </details>
  </ol> 
- <ol>
+ <ol>*
   
 <h2>Work In Progress</h2>
 <li>Understanding Movements into and out of Informality: Theory and Evidence from Pakistan with <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester)</li>
