@@ -8,7 +8,7 @@ author_profile: true
 <h2>Working Papers</h2>
 <ul>
   <li>
-    Revenue and Welfare Consequences of Anti-Avoidance Rules: Evidence from Uganda joint with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), <a href="https://odi.org/en/profile/kyle-mcnabb/" target="_blank">Kyle McNabb</a> (ODI), and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester) <i>October 2023</i>
+    Revenue and Welfare Consequences of Anti-Avoidance Rules: Evidence from Uganda joint with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), <a href="https://odi.org/en/profile/kyle-mcnabb/" target="_blank">Kyle McNabb</a> (ODI), and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester) <i>July 2024</i>
     <details>
       <summary>Abstract</summary>
       <p>In this study, we examine the impact of Uganda’s transition from Thin Capitalization Rules (TCR) to Earnings Stripping Rules (ESR) in 2018 on corporate profit shifting behaviour. Our preliminary findings suggest that the adoption of ESR led to a significant decrease in both the leverage and interest expenses of treated companies. Notably, this shift was associated with a decline in real economic activity with both sales and investment going down after the reform. Despite these reductions, the ESR regime enabled Uganda to generate higher revenue compared to the TCR system. Additionally, our analysis indicates that ESR specifically targets firms with high leverage relative to earnings, in contrast to TCR, which focuses on companies utilizing debt financing over equity financing.</p>
