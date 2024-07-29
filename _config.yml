@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muhammad Bashir"
 title_separator          : "-"
 name                     : &name "Muhammad Bashir"
-description              : &description "This is Muhammad. I am predoc in economics at Columbia University."
+description              : &description "This is Muhammad. I am PhD Economics Student at UC, Berkeley."
 url                      : https://BashirMohammad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BashirMohammad/BashirMohammad.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "muhammad.bashir@columbia.edu"
+    email                : "muhammad.bashir@berkeley.edu"
   generatedFields:
     date:
       type               : "date"
@@ -83,7 +83,7 @@ author:
   name             : "Muhammad Bashir"
   avatar           : "profile.jpg"
   bio              : "Public, Macro and IO"
-  location         : "New York, NY, USA"
+  location         : "San Francisco,CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
