@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](/Users/umerrssohail/GitHub/umerrssohail.github.io/umer.pdf)
+[Download CV](/Users/umerrssohail/umerrssohail.github.io/umer.pdf)
