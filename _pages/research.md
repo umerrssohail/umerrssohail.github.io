@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Working Papers</h2>
+<h2></h2>
 <ul>
   <li>
     Revenue and Welfare Consequences of Anti-Avoidance Rules: Evidence from Uganda joint with <a href="https://research.manchester.ac.uk/en/persons/usama.jamal" target="_blank">Usama Jamal</a> (Manchester), <a href="https://odi.org/en/profile/kyle-mcnabb/" target="_blank">Kyle McNabb</a> (ODI), and <a href="https://www.mazharwaseem.com" target="_blank">Mazhar Waseem</a> (CEPR, IFS, Manchester) <i>July 2024</i>
