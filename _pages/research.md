@@ -17,7 +17,7 @@ Trade liberalization is one of the most widely used policy tools for stimulating
 ---
 
 ### 2. [Towards win-win: Evidence from commercial dispute resolution in India]()  
-**With:** [Manaswini Rao](#) (University of Delaware), [Sandhya Seetharaman](#) (J-PAL), [Khushbu Shah](#) (J-PAL)  
+**With:** [Manaswini Rao](#) (University of Delaware), [Sandhya Seetharaman](#), [Raghav Pandey](#)  
 **Status:** Draft, *October 2024*
 
 **Abstract:**  
