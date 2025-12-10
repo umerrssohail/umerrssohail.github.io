@@ -25,11 +25,9 @@ Trade liberalization is one of the most widely used policy tools for stimulating
 Courts are central in contract enforcement, and yet we know very little about how they function and their impact in the context of low state capacity. We leverage random assignment of commercial and contractual cases to judges in newly created commercial courts in India to examine the impact of judge-mediated settlement on litigating firms' profits. The resolution of a case through mutual reconciliation (``settlement'') rather than a full-length trial is negatively correlated with its duration and its pending status. We estimate a large, positive effect on the profitability of plaintiff, mainly financial sector firms, and negative effects among defendant firms. However, the negative effects among defendants are driven by the timing of suing rather than from settlement. We find suggestive evidence that settlement, in fact, stems the loss, suggesting a Pareto improvement.
 
 ---
-## Causal Impact of Barter Trade Policy during a Foreign Exchange Reserves Crisis
+### 3. [Causal Impact of Barter Trade Policy during a Foreign Exchange Reserves Crisis]() 
+**With:** Fraz Ahmed (Carnegie Mellon University)**
 
-**with Fraz Ahmed (Carnegie Mellon University)**
-
-*Job Market Paper*
 
 When Pakistan's foreign exchange reserves collapsed to $3 billion in 2023—covering less than two weeks of imports—the government introduced a barter trade mechanism allowing direct goods-for-goods exchange with Afghanistan, bypassing frozen banking channels. Using transaction-level customs data and product-level variation in barter eligibility, I provide the first causal evidence that alternative payment mechanisms can effectively mitigate crisis-induced trade disruptions. 
 
