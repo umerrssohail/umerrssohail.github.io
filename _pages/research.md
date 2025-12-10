@@ -27,7 +27,6 @@ Courts are central in contract enforcement, and yet we know very little about ho
 ---
 ### 3. [Causal Impact of Barter Trade Policy during a Foreign Exchange Reserves Crisis]() 
 **With:** [Fraz Ahmed]() (Carnegie Mellon University)
-
 **Status:** Draft, *December 2025*
 
 
