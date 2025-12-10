@@ -26,16 +26,13 @@ Courts are central in contract enforcement, and yet we know very little about ho
 
 ---
 ### 3. [Causal Impact of Barter Trade Policy during a Foreign Exchange Reserves Crisis]() 
-**With:** Fraz Ahmed (Carnegie Mellon University)
+**With:** [Fraz Ahmed]() (Carnegie Mellon University)
 **Status:** Draft, *December 2025*
 
 
 When Pakistan's foreign exchange reserves collapsed to $3 billion in 2023—covering less than two weeks of imports—the government introduced a barter trade mechanism allowing direct goods-for-goods exchange with Afghanistan, bypassing frozen banking channels. Using transaction-level customs data and product-level variation in barter eligibility, I provide the first causal evidence that alternative payment mechanisms can effectively mitigate crisis-induced trade disruptions. 
 
 Barter-eligible products experienced 30% higher export quantities during the crisis peak compared to ineligible products. These effects were crisis-contingent: emerging when reserves were depleted and dissipating naturally as conventional payment systems resumed. The mechanism operated through real trade expansion with minimal price distortion, demonstrating that well-designed temporary interventions can maintain trade during payment system failures without creating permanent market distortions.
-
-**Keywords:** International trade, barter trade, financial crises, payment systems, natural experiment
-
 
 ---
 
