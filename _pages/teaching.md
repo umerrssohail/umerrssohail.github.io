@@ -9,6 +9,7 @@ author_profile: true
 
 ### Economics Issues and Policies
 **University of Delaware, Department of Economics**
+*Winter 2026*
 
 ---
 
