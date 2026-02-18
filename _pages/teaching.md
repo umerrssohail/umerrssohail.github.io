@@ -5,31 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Instructor of Record
+Department of Economics, University of Delaware
 
-### Economics Issues and Policies
-**University of Delaware, Department of Economics**
+## Instructor of Record
 
----
+| Semester | Course |
+|:---------|:-------|
+| Spring 2026 | Economics Issues and Policies (ECON301) |
 
-# Teaching Assistant
+## Teaching Assistant — Graduate Courses
 
-## Graduate Courses
+| Semester | Course |
+|:---------|:-------|
+| Fall 2023 | Microeconomic Theory I |
+| Spring 2024 | Econometric Theory |
 
-### Microeconomic Theory I
-**University of Delaware, Department of Economics**
-*Fall 2023*
+## Teaching Assistant — Undergraduate Courses
 
-### Econometric Theory
-**University of Delaware, Department of Economics**
-*Spring 2024*
-
-## Undergraduate Courses
-
-### Banking and Monetary Policy
-**University of Delaware, Department of Economics**
-*Fall 2024*
-
-### Development Economics
-**University of Delaware, Department of Economics**
-*Spring 2025*
+| Semester | Course |
+|:---------|:-------|
+| Fall 2024 | Banking and Monetary Policy |
+| Spring 2025 | Development Economics |
