@@ -7,7 +7,7 @@ author_profile: true
 
 # Instructor of Record
 
-### Economics Issues and Policies
+### Economic Issues and Policies
 *University of Delaware, Department of Economics*
 *Winter 2026*
 
@@ -35,6 +35,6 @@ author_profile: true
 *University of Delaware, Department of Economics*
 *Spring 2025*
 
-### Intermediate MicroEconomics
+### Intermediate Microeconomics
 *Lahore University of Management Sciences*
 *Fall 2020 & 2021*
