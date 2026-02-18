@@ -11,10 +11,12 @@ title                    : "Umer Sohail"
 title_separator          : "-"
 name                     : &name "Umer Sohail"
 description              : &description "personal description"
-url                      : https://umerrssohail.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url: "https://umerssohail.com"
+baseurl: ""
 repository               : "umerrssohail/umerssohail.github.io"
 minimal_mistakes_skin    :      "air"
+
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
