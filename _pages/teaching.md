@@ -1,28 +1,40 @@
 ---
-layout: archive
+layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-Department of Economics, University of Delaware
+## Teaching Interests
+
+Microeconomic Theory • Econometrics • Development Economics • Monetary Economics
+
+---
 
 ## Instructor of Record
 
-| Semester | Course |
-|:---------|:-------|
-| Spring 2026 | Economics Issues and Policies (ECON301) |
+**Economics Issues and Policies (ECON 100)**  
+University of Delaware — Spring 2026  
 
-## Teaching Assistant — Graduate Courses
+---
 
-| Semester | Course |
-|:---------|:-------|
-| Fall 2023 | Microeconomic Theory I |
-| Spring 2024 | Econometric Theory |
+## Teaching Assistant – Graduate Level
 
-## Teaching Assistant — Undergraduate Courses
+**Microeconomic Theory I**  
+University of Delaware — Fall 2023  
 
-| Semester | Course |
-|:---------|:-------|
-| Fall 2024 | Banking and Monetary Policy |
-| Spring 2025 | Development Economics |
+**Econometric Theory**  
+University of Delaware — Spring 2024  
+
+---
+
+## Teaching Assistant – Undergraduate Level
+
+**Banking and Monetary Policy**  
+University of Delaware — Fall 2024  
+
+**Development Economics**  
+University of Delaware — Spring 2025  
+
+**Intermediate Microeconomics**  
+Lahore University of Management Sciences (LUMS) — Fall 2020 & 2021  
