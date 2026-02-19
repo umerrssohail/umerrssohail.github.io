@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Interests
 
-Microeconomic Theory • Econometrics • Development Economics • Monetary Economics
+Macro Economics • Econometrics • Development Economics • International Trade
 
 ---
 
