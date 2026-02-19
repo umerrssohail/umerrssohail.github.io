@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Job Market Candidate 2026 — International Trade, Development, & Firm Behavior**
 
 I am a fourth-year Ph.D. student in Economics at the University of Delaware, specializing in applied microeconomics with a focus on international trade, development economics, and firm behavior.
 
