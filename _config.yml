@@ -11,10 +11,12 @@ title                    : "Umer Sohail"
 title_separator          : "-"
 name                     : &name "Umer Sohail"
 description              : &description "personal description"
-url                      : https://umerrssohail.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url: "https://umerssohail.com"
+baseurl: ""
 repository               : "umerrssohail/umerssohail.github.io"
 minimal_mistakes_skin    :      "air"
+
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +26,7 @@ author:
   avatar           : "umerprofile.png"
   name             : "Umer Sohail"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Economics Student, University of Delaware"
+  bio              : "Ph.D. Candidate in Economics, University of Delaware"
   location         : "Newark, DE"
   employer         : "University of Delaware"
   uri              : # URL
@@ -137,10 +139,13 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: Umer Sohail
+  links:
+    - https://www.linkedin.com/in/umerrssohail
+
 
 
 # Analytics
