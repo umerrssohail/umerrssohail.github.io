@@ -14,7 +14,7 @@ description              : &description "personal description"
 url: "https://umerssohail.com"
 baseurl: ""
 repository               : "umerrssohail/umerssohail.github.io"
-minimal_mistakes_skin    :      "air"
+minimal_mistakes_skin    :      "dark"
 
 
 
