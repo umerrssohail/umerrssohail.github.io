@@ -14,7 +14,7 @@ Macro Economics • Econometrics • Development Economics • International Tra
 ## Instructor of Record
 
 **Economics Issues and Policies (ECON 100)**  
-University of Delaware — Spring 2026  
+University of Delaware — Winter 2026  
 
 ---
 
