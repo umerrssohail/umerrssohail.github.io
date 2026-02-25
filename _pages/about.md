@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Economics at the University of Delaware, specializing 
 
 Outside of research, I enjoy going to the gym and staying active. When I'm not working with data or writing, you can usually find me training or exploring new AI tools and technologies.
 
-For more details about my research, CV [here](/files/umer_resume.pdf)., and ongoing projects, please explore my site or reach out at umersoha@udel.edu.
+For more details about my research,  [CV](/files/umer_resume.pdf)., and ongoing projects, please explore my site or reach out at umersoha@udel.edu.
 
 
 
