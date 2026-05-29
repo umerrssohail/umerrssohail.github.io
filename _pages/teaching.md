@@ -13,6 +13,8 @@ Macro Economics • Econometrics • Development Economics • International Tra
 
 ## Instructor of Record
 
+**Principles of Macro (ECON 103)**  
+University of Delaware — Summer 2026  
 **Economics Issues and Policies (ECON 100)**  
 University of Delaware — Winter 2026  
 
