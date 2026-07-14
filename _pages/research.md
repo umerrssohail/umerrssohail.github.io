@@ -33,7 +33,8 @@ When Pakistan’s foreign exchange reserves collapsed in 2023, the government in
 
 ### Towards Win-Win: Evidence from Commercial Dispute Resolution in India
 with Manaswini Rao (University of Delaware), Sandhya Seetharaman, and Raghav Pandey  
-Draft, October 2024  
+Draft, November 2025
 
 **Abstract:**  
-Courts play a central role in contract enforcement, yet little is known about their functioning in settings with limited state capacity. We leverage the random assignment of commercial cases to judges in newly established commercial courts in India to examine the impact of judge-mediated settlement on firm outcomes. Settlement is negatively correlated with case duration and pending status. We estimate large positive effects on plaintiff profitability, primarily among financial sector firms, and negative effects among defendant firms. However, the adverse effects among defendants appear driven by the timing of litigation rather than settlement itself. We find suggestive evidence that settlement mitigates losses, indicating potential Pareto improvements from expedited dispute resolution.
+Resolving a contractual dispute through mediation could preempt uncertainty and the cost of litigation, and thus could be a strategy to reduce pending case backlog in courts. We leverage random assignment of commercial and contractual cases to judges in newly created commercial courts in India to examine the impact of judge-led mediation of disputes on case outcomes and litigating firms’ profits. The resolution of a case through mutual reconciliation (“settlement”) rather than a full-length trial from being assigned a settlement-prone judge is negatively associated with its duration and its pending status in the court. We estimate a large, positive effect of judge settlement-propensity on the profitability of plaintiff firms. Defendants experience a negative effect around the timing of suing but settlement reverses the trend, potentially stemming the losses associated with lengthy and uncertain trial outcomes
+
