@@ -12,7 +12,7 @@ My research examines how firms respond to policy distortions and institutional c
 ## Job Market Paper
 
 ### The Impact of Trade Liberalization on Manufacturing Firms: Evidence from Pakistan
-with Shaheryar (Duke University) and Zehra Farooq (FBR, Pakistan)  
+with Zehra Farooq (FBR, Pakistan)  
 Draft, October 2025  
 
 **Abstract:**  
