@@ -5,38 +5,41 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Interests
+## Teaching
 
-Macro Economics • Econometrics • Development Economics • International Trade
-
----
-
-## Instructor of Record
-
-**Principles of Macro (ECON 103)**  
-University of Delaware — Summer 2026  
-**Economics Issues and Policies (ECON 100)**  
-University of Delaware — Winter 2026  
+**Fields:** Macroeconomics · Econometrics · Development Economics · International Trade
 
 ---
 
-## Teaching Assistant – Graduate Level
+### Instructor of Record
 
-**Microeconomic Theory I**  
-University of Delaware — Fall 2023  
+**Principles of Macroeconomics (ECON 103)**
+University of Delaware — Summer 2026
 
-**Econometric Theory**  
-University of Delaware — Spring 2024  
+**Economic Issues and Policies (ECON 100)**
+University of Delaware — Winter 2026
 
 ---
 
-## Teaching Assistant – Undergraduate Level
+### Teaching Assistant — Graduate Level
 
-**Banking and Monetary Policy**  
-University of Delaware — Fall 2024  
+**Microeconomic Theory I**
+University of Delaware — Fall 2023
 
-**Development Economics**  
-University of Delaware — Spring 2025  
+**Econometric Theory**
+University of Delaware — Spring 2024
 
-**Intermediate Microeconomics**  
-Lahore University of Management Sciences (LUMS) — Fall 2020 & 2021  
+---
+
+### Teaching Assistant — Undergraduate Level
+
+**University of Delaware**
+- Banking & Monetary Policy — Fall 2024
+- Development Economics — Spring 2025
+
+**Lahore University of Management Sciences (LUMS)**
+- Intermediate Microeconomics — Fall 2019 & Fall 2020
+- Econometrics — Spring 2020
+- Macroeconomics — Fall 2020
+- Mathematical Applications in Economics — Spring 2021
+- Mathematics of Finance — Fall 2021
