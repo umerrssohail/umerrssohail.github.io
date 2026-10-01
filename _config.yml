@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Umer Sohail"
 title_separator          : "-"
 name                     : &name "Umer Sohail"
-description              : &description "personal description"
+description              : &description "Economics Ph.D. candidate at the University of Delaware studying trade, development, and firm behavior"
 url: "https://umerssohail.com"
 baseurl: ""
-repository               : "umerrssohail/umerssohail.github.io"
+repository               : "umerrssohail/umerrssohail.github.io"
 minimal_mistakes_skin    :      "dark"
 
 
