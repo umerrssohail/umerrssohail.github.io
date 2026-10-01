@@ -6,7 +6,7 @@ I am an Economics Ph.D. candidate at the University of Delaware. My research foc
 
 ## Built with
 
-The site uses [Jekyll](https://jekyllrb.com/) and the [Academic Pages](https://academicpages.github.io/) theme, which is based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages. Its main pages use a custom responsive layout. The repository originally started from the [Academic Pages](https://academicpages.github.io/) template.
 
 ## Contact
 
