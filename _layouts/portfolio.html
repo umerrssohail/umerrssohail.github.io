@@ -2,49 +2,27 @@
 ---
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f6f5f0">
-    <meta name="description" content="{{ page.description | default: site.description | escape }}">
-    <link rel="canonical" href="{{ page.url | absolute_url }}">
-    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
-    <title>{% if page.url == '/' %}Umer Sohail | Economist &amp; Applied Researcher{% else %}{{ page.title | escape }} | Umer Sohail{% endif %}</title>
-  </head>
-  <body class="{{ page.page_class | escape }}">
-    <a class="skip-link" href="#main">Skip to content</a>
-
-    <header class="site-header">
-      <div class="shell header-inner">
-        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Umer Sohail, home">
-          <span class="brand-mark" aria-hidden="true">US</span>
-          <span class="brand-copy"><strong>Umer Sohail</strong><small>Economist &amp; applied researcher</small></span>
-        </a>
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>About</a>
-          <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
-          <a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} aria-current="page"{% endif %}>Teaching</a>
-          <a class="nav-cv" href="{{ '/files/umer_resume.pdf' | relative_url }}">CV <span aria-hidden="true">↗</span></a>
-        </nav>
-      </div>
-    </header>
-
-    {{ content }}
-
-    <footer class="site-footer">
-      <div class="shell footer-inner">
-        <div>
-          <p class="footer-name">Umer Sohail<span aria-hidden="true">.</span></p>
-          <p>Research, teaching, and practical tools for better decisions.</p>
-        </div>
-        <div class="footer-links" aria-label="Contact and profiles">
-          <a href="mailto:umersoha@udel.edu">Email <span aria-hidden="true">↗</span></a>
-          <a href="https://github.com/umerrssohail">GitHub <span aria-hidden="true">↗</span></a>
-          <a href="https://www.linkedin.com/in/umerrssohail">LinkedIn <span aria-hidden="true">↗</span></a>
-        </div>
-        <p class="copyright">© {{ site.time | date: '%Y' }} Umer Sohail</p>
-      </div>
-    </footer>
-  </body>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ page.description | default: site.description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+<title>{% if page.url == '/' %}Umer Sohail | Economics{% else %}{{ page.title | escape }} | Umer Sohail{% endif %}</title>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header shell">
+<a class="site-name" href="{{ '/' | relative_url }}">Umer Sohail</a>
+<nav aria-label="Main navigation">
+<a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+<a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
+<a href="{{ '/teaching/' | relative_url }}"{% if page.url == '/teaching/' %} aria-current="page"{% endif %}>Teaching</a>
+<a href="{{ '/files/umer_resume.pdf' | relative_url }}">CV</a>
+</nav>
+</header>
+{{ content }}
+<footer class="site-footer shell">Umer Sohail <span aria-hidden="true">·</span> University of Delaware <span aria-hidden="true">·</span> <a href="mailto:umersoha@udel.edu">umersoha@udel.edu</a></footer>
+</body>
 </html>
