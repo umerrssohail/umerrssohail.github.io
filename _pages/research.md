@@ -9,7 +9,7 @@ description: Research by Umer Sohail on international trade, firm behavior, and 
 <section aria-labelledby="job-market-paper">
 <h2 id="job-market-paper">Job Market Paper</h2>
 <article class="paper">
-<h3>The Impact of Trade Liberalization on Manufacturing Firms: Evidence from Pakistan</h3>
+<h3>Trade Liberalization and Firm Adjustment: Evidence from Pakistan</h3>
 <p class="authors">With Zehra Farooq (FBR, Pakistan)</p>
 <p class="paper-meta">Draft: October 2025 · Full paper coming soon</p>
 <details open><summary>Abstract</summary><p>We study how manufacturing firms adjust input choices in response to improved export-market access. We examine Pakistan’s exposure to the European Union’s GSP+ preferential trade agreement, which substantially reduced tariffs on Pakistani exports across key manufacturing sectors. Using administrative tax records linked to firm-level tariff exposure, we exploit variation in pre-liberalization protection to track firm responses along multiple margins. We find substantial heterogeneity by baseline productivity. More productive firms expand capital investment and maintain employment, while less productive firms contract wage bills without corresponding reinvestment. Despite an overall increase in firm exit rates, we find no evidence of disproportionate attrition among low-productivity firms. These findings suggest that liberalization reallocates resources toward more productive incumbents, but that adjustment operates primarily through input reoptimization and within-firm restructuring rather than selection out of the market. The results highlight the intensive margin of incumbent adjustment as an important channel through which preferential market access reshapes manufacturing activity in developing economies.</p></details>

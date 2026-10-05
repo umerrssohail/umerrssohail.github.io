@@ -21,7 +21,7 @@ redirect_from:
     <p class="market-note">I am on the <strong>2026–2027 academic job market</strong>.</p>
     <section class="home-research" aria-labelledby="jmp-title">
       <h2 id="jmp-title">Job Market Paper</h2>
-      <h3><a href="{{ '/research/' | relative_url }}#job-market-paper">The Impact of Trade Liberalization on Manufacturing Firms: Evidence from Pakistan</a></h3>
+      <h3><a href="{{ '/research/' | relative_url }}#job-market-paper">Trade Liberalization and Firm Adjustment: Evidence from Pakistan</a></h3>
       <p class="authors">With Zehra Farooq (FBR, Pakistan)</p>
       <p>Using administrative tax records, we examine how manufacturing firms adjust their inputs in response to improved export-market access under the European Union’s GSP+ preferential trade agreement.</p>
       <p><a href="{{ '/research/' | relative_url }}#job-market-paper">Abstract and details</a></p>
