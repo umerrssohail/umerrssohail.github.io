@@ -18,7 +18,7 @@ redirect_from:
     <p class="subtitle">Ph.D. Candidate in Economics</p>
     <p>I am a Ph.D. candidate in Economics at the University of Delaware. My research interests are international trade, applied microeconomics, and development economics.</p>
     <p>I study how trade policy and institutions shape firm behavior in developing economies, using administrative data to examine firms’ responses to changes in market access and institutional constraints.</p>
-    <p class="market-note">I am on the <strong>2026–2027 academic job market</strong>.</p>
+    <p class="market-note">I am on the <strong>2026–2027 Job Market</strong>.</p>
     <section class="home-research" aria-labelledby="jmp-title">
       <h2 id="jmp-title">Job Market Paper</h2>
       <h3><a href="{{ '/research/' | relative_url }}#job-market-paper">Trade Liberalization and Firm Adjustment: Evidence from Pakistan</a></h3>
