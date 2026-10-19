@@ -12,7 +12,7 @@ description: Research by Umer Sohail on international trade, firm behavior, and 
 <h3>Trade Liberalization and Firm Adjustment: Evidence from Pakistan</h3>
 <p class="authors">With Zehra Farooq (FBR, Pakistan)</p>
 <p class="paper-meta">Draft: October 2026 · Full paper coming soon</p>
-<details open><summary>Abstract</summary><p>We study how firms adjust to preferential access to a large export market. In 2014, the European Union's GSP+ removed the remaining tariffs on about two-thirds of tariff lines for Pakistan without requiring tariff cuts in return. Using corporate tax records for 3,810 firms and variation in pre-reform EU tariffs across products, we find that each percentage point of pre-reform tariff raised firm export value by about 19 percent, and Pakistan's exports shifted toward the EU. Yet exposed firms did not expand on average: their production wage bills fell, while their capital stock and activity showed no clear change. More productive firms gained exports while less productive firms became less active; among large firms, exporters expanded exports and cut production wage bills, while non-exporters raised their capital stock.</p></details>
+<details open><summary>Abstract</summary><p>We study how firms adjust to preferential access to a large export market. Between November 2012 and January 2014, the European Union removed most of its remaining tariffs on Pakistani products in two steps—flood-relief preferences on a narrow set of products, followed by GSP+—without requiring tariff cuts in return. Using corporate tax records for 3,810 firms and variation across products in tariffs before the cuts, we find that each percentage point of tariff exposure raised firm export value by about 19 percent, mainly after the second, broader step, and Pakistan's exports shifted toward the EU. Export growth came with lower recorded production wage bills, while the evidence on capital is inconclusive. Export estimates are larger for more productive firms, and less productive firms became less likely to report positive sales or wages; among large firms, exporters expanded exports and cut production wage bills, while some non-exporters increased their recorded capital stock.</p></details>
 </article>
 </section>
 <section aria-labelledby="working-papers">
@@ -31,3 +31,4 @@ description: Research by Umer Sohail on international trade, firm behavior, and 
 </article>
 </section>
 </main>
+
