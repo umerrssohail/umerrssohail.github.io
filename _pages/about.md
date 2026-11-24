@@ -24,7 +24,7 @@ redirect_from:
       <h3><a href="{{ '/research/' | relative_url }}#job-market-paper">Trade Liberalization and Firm Adjustment: Evidence from Pakistan</a></h3>
       <p class="authors">With Zehra Farooq (FBR, Pakistan)</p>
       <p>Using corporate tax records, we study how firms adjust to European Union tariff cuts introduced in two stages: flood-relief preferences beginning in 2012, followed by GSP+ in 2014.</p>
-      <p><a href="{{ '/research/' | relative_url }}#job-market-paper">Abstract and details</a></p>
+      <p><a href="{{ '/research/' | relative_url }}#job-market-paper">Abstract and details</a> · <a href="{{ '/files/Umer_Sohail_JMP.pdf' | relative_url }}">Paper (PDF)</a></p>
     </section>
   </div>
 </main>
